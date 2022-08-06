@@ -1,5 +1,5 @@
-function Home() {
-  return <h1>Home</h1>
+function History() {
+  return <h1>History</h1>
 }
 
-export { Home }
+export { History }
